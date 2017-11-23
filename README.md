@@ -6,7 +6,7 @@ This site is a demo to train the Javascritp library [React](https://reactjs.org/
 
 First of all you can start downloading the repo by clicking the link below.
 
-link pending
+https://github.com/efrivera/React-training/archive/master.zip
 
 ## Running the app
 
@@ -22,4 +22,4 @@ After modules are installed, you can start watching and compiling the source cod
 > gulp
 ```
 
-That's all folks. Tahnk you for your time.
+That's all folks. Thank you for your time. :wave:
